@@ -1,0 +1,40 @@
+
+
+/* .youtube {
+  background-image:url(../images/youtube.jpg);
+  width: 78%;
+  height: 600px;
+
+  background-color: indigo;
+  padding-left: 20px;
+  
+}
+*/
+a:hover {
+    background-color:powderblue;
+} 
+#offers{
+  /* background: url() center/cover no-repeat; */
+  /* background-repeat: no-repeat; */
+  /* ../images/offer_img1.jpg */
+  
+}
+#offers .row{
+  min-height: 43vh;
+  
+}
+.offers-content span{
+  font-size: 28px;
+
+}
+.offers-content h2{
+  font-size: 60px;
+  font-family: var(--lg-font);
+  color: #f4f4f4 !important;
+}
+.offers-content .btn{
+  border-color: transparent!important;
+}
+.cc{
+  background-color:#79adf1 !important;
+}
